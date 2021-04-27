@@ -1,0 +1,215 @@
+﻿id,product_fault_category,pfc_id,repair_action,status
+1,Power Issue,55,Electrical Part Replaced,f
+2,Power Issue,55,Electrical Part Repaired,f
+3,Power Issue,55,Cosmetic Part Replaced,f
+4,Power Issue,55,Software Updated,f
+5,Power Issue,55,OS Upgraded,f
+6,Power Issue,55,Explained To Customer,f
+7,Power Issue,55,Dry Soldering Done,f
+8,Power Issue,55,Part Cleaned and Serviced,f
+9,Power Issue,55,Setting Adjusted,f
+10,Power Issue,55,Re-soldering Done,f
+11,Power Issue,55,Accessories Replaced,f
+12,Power Issue,55,Repair Cancelled,f
+13,Display Issue,56,Electrical Part Replaced,f
+14,Display Issue,56,Electrical Part Repaired,f
+15,Display Issue,56,Cosmetic Part Replaced,f
+16,Display Issue,56,Software Updated,f
+17,Display Issue,56,OS Upgraded,f
+18,Display Issue,56,Explained To Customer,f
+19,Display Issue,56,Dry Soldering Done,f
+20,Display Issue,56,Part Cleaned and Serviced,f
+21,Display Issue,56,Setting Adjusted,f
+22,Display Issue,56,Re-soldering Done,f
+23,Display Issue,56,Accessories Replaced,f
+24,Display Issue,56,Repair Cancelled,f
+25,Sound Issue,57,Electrical Part Replaced,f
+26,Sound Issue,57,Electrical Part Repaired,f
+27,Sound Issue,57,Cosmetic Part Replaced,f
+28,Sound Issue,57,Software Updated,f
+29,Sound Issue,57,OS Upgraded,f
+30,Sound Issue,57,Explained To Customer,f
+31,Sound Issue,57,Dry Soldering Done,f
+32,Sound Issue,57,Part Cleaned and Serviced,f
+33,Sound Issue,57,Setting Adjusted,f
+34,Sound Issue,57,Re-soldering Done,f
+35,Sound Issue,57,Accessories Replaced,f
+36,Sound Issue,57,Repair Cancelled,f
+37,Windows & Network Issue,58,Electrical Part Replaced,f
+38,Windows & Network Issue,58,Electrical Part Repaired,f
+39,Windows & Network Issue,58,Cosmetic Part Replaced,f
+40,Windows & Network Issue,58,Software Updated,f
+41,Windows & Network Issue,58,OS Upgraded,f
+42,Windows & Network Issue,58,Explained To Customer,f
+43,Windows & Network Issue,58,Dry Soldering Done,f
+44,Windows & Network Issue,58,Part Cleaned and Serviced,f
+45,Windows & Network Issue,58,Setting Adjusted,f
+46,Windows & Network Issue,58,Re-soldering Done,f
+47,Windows & Network Issue,58,Accessories Replaced,f
+48,Windows & Network Issue,59,Repair Cancelled,f
+49,Touch Pad/Keyboard/Mouse Issue,59,Electrical Part Replaced,f
+50,Touch Pad/Keyboard/Mouse Issue,59,Electrical Part Repaired,f
+51,Touch Pad/Keyboard/Mouse Issue,59,Cosmetic Part Replaced,f
+52,Touch Pad/Keyboard/Mouse Issue,59,Software Updated,f
+53,Touch Pad/Keyboard/Mouse Issue,59,OS Upgraded,f
+54,Touch Pad/Keyboard/Mouse Issue,59,Explained To Customer,f
+55,Touch Pad/Keyboard/Mouse Issue,59,Dry Soldering Done,f
+56,Touch Pad/Keyboard/Mouse Issue,59,Part Cleaned and Serviced,f
+57,Touch Pad/Keyboard/Mouse Issue,59,Setting Adjusted,f
+58,Touch Pad/Keyboard/Mouse Issue,59,Re-soldering Done,f
+59,Touch Pad/Keyboard/Mouse Issue,59,Accessories Replaced,f
+60,Touch Pad/Keyboard/Mouse Issue,59,Repair Cancelled,f
+61,Device Connectivity Issue,60,Electrical Part Replaced,f
+62,Device Connectivity Issue,60,Electrical Part Repaired,f
+63,Device Connectivity Issue,60,Cosmetic Part Replaced,f
+64,Device Connectivity Issue,60,Software Updated,f
+65,Device Connectivity Issue,60,OS Upgraded,f
+66,Device Connectivity Issue,60,Explained To Customer,f
+67,Device Connectivity Issue,60,Dry Soldering Done,f
+68,Device Connectivity Issue,60,Part Cleaned and Serviced,f
+69,Device Connectivity Issue,60,Setting Adjusted,f
+70,Device Connectivity Issue,60,Re-soldering Done,f
+71,Device Connectivity Issue,60,Accessories Replaced,f
+72,Device Connectivity Issue,60,Repair Cancelled,f
+73,Heating & Battery Issue,61,Electrical Part Replaced,f
+74,Heating & Battery Issue,61,Electrical Part Repaired,f
+75,Heating & Battery Issue,61,Cosmetic Part Replaced,f
+76,Heating & Battery Issue,61,Software Updated,f
+77,Heating & Battery Issue,61,OS Upgraded,f
+78,Heating & Battery Issue,61,Explained To Customer,f
+79,Heating & Battery Issue,61,Dry Soldering Done,f
+80,Heating & Battery Issue,61,Part Cleaned and Serviced,f
+81,Heating & Battery Issue,61,Setting Adjusted,f
+82,Heating & Battery Issue,61,Re-soldering Done,f
+83,Heating & Battery Issue,61,Accessories Replaced,f
+84,Heating & Battery Issue,61,Repair Cancelled,f
+85,Display Problem,72,Electrical Part Replaced,f
+86,Display Problem,72,Electrical Part Repaired,f
+87,Display Problem,72,Software/Firmware Updated,f
+88,Display Problem,72,Setting Adjusted,f
+89,Display Problem,72,Other Part Used,f
+90,Display Problem,72,Explained to Customer,f
+91,Display Problem,72,Cosmetic Part Repalced,f
+92,Display Problem,72,Part Cleaned and Serviced,f
+93,Display Problem,72,Re-soldering done,f
+94,Display Problem,72,Accessories Replaced,f
+95,Display Problem,72,Repair Cancelled,f
+96,Power Related Issue,73,Electrical Part Replaced,f
+97,Power Related Issue,73,Electrical Part Repaired,f
+98,Power Related Issue,73,Software/Firmware Updated,f
+99,Power Related Issue,73,Setting Adjusted,f
+100,Power Related Issue,73,Other Part Used,f
+101,Power Related Issue,73,Explained to Customer,f
+102,Power Related Issue,73,Cosmetic Part Repalced,f
+103,Power Related Issue,73,Part Cleaned and Serviced,f
+104,Power Related Issue,73,Re-soldering done,f
+105,Power Related Issue,73,Accessories Replaced,f
+106,Power Related Issue,73,Repair Cancelled,f
+107,Headphones not working,74,Electrical Part Replaced,f
+108,Headphones not working,74,Electrical Part Repaired,f
+109,Headphones not working,74,Software/Firmware Updated,f
+110,Headphones not working,74,Setting Adjusted,f
+111,Headphones not working,74,Other Part Used,f
+112,Headphones not working,74,Explained to Customer,f
+113,Headphones not working,74,Cosmetic Part Repalced,f
+114,Headphones not working,74,Part Cleaned and Serviced,f
+115,Headphones not working,74,Re-soldering done,f
+116,Headphones not working,74,Accessories Replaced,f
+117,Headphones not working,74,Repair Cancelled,f
+118,Battery/Charing Issue,75,Electrical Part Replaced,f
+119,Battery/Charing Issue,75,Electrical Part Repaired,f
+120,Battery/Charing Issue,75,Software/Firmware Updated,f
+121,Battery/Charing Issue,75,Setting Adjusted,f
+122,Battery/Charing Issue,75,Other Part Used,f
+123,Battery/Charing Issue,75,Explained to Customer,f
+124,Battery/Charing Issue,75,Cosmetic Part Repalced,f
+125,Battery/Charing Issue,75,Part Cleaned and Serviced,f
+126,Battery/Charing Issue,75,Re-soldering done,f
+127,Battery/Charing Issue,75,Accessories Replaced,f
+128,Battery/Charing Issue,75,Repair Cancelled,f
+129,Sound Issue,76,Electrical Part Replaced,f
+130,Sound Issue,76,Electrical Part Repaired,f
+131,Sound Issue,76,Software/Firmware Updated,f
+132,Sound Issue,76,Setting Adjusted,f
+133,Sound Issue,76,Other Part Used,f
+134,Sound Issue,76,Explained to Customer,f
+135,Sound Issue,76,Cosmetic Part Repalced,f
+136,Sound Issue,76,Part Cleaned and Serviced,f
+137,Sound Issue,76,Re-soldering done,f
+138,Sound Issue,76,Accessories Replaced,f
+139,Sound Issue,76,Repair Cancelled,f
+140,Connection Problem,77,Electrical Part Replaced,f
+141,Connection Problem,77,Electrical Part Repaired,f
+142,Connection Problem,77,Software/Firmware Updated,f
+143,Connection Problem,77,Setting Adjusted,f
+144,Connection Problem,77,Other Part Used,f
+145,Connection Problem,77,Explained to Customer,f
+146,Connection Problem,77,Cosmetic Part Repalced,f
+147,Connection Problem,77,Part Cleaned and Serviced,f
+148,Connection Problem,77,Re-soldering done,f
+149,Connection Problem,77,Accessories Replaced,f
+150,Connection Problem,77,Repair Cancelled,f
+151,Data Storage Issue,78,Electrical Part Replaced,f
+152,Data Storage Issue,78,Electrical Part Repaired,f
+153,Data Storage Issue,78,Software/Firmware Updated,f
+154,Data Storage Issue,78,Setting Adjusted,f
+155,Data Storage Issue,78,Other Part Used,f
+156,Data Storage Issue,78,Explained to Customer,f
+157,Data Storage Issue,78,Cosmetic Part Repalced,f
+158,Data Storage Issue,78,Part Cleaned and Serviced,f
+159,Data Storage Issue,78,Re-soldering done,f
+160,Data Storage Issue,78,Accessories Replaced,f
+161,Data Storage Issue,78,Repair Cancelled,f
+162,Camera Issue,79,Electrical Part Replaced,f
+163,Camera Issue,79,Electrical Part Repaired,f
+164,Camera Issue,79,Software/Firmware Updated,f
+165,Camera Issue,79,Setting Adjusted,f
+166,Camera Issue,79,Other Part Used,f
+167,Camera Issue,79,Explained to Customer,f
+168,Camera Issue,79,Cosmetic Part Repalced,f
+169,Camera Issue,79,Part Cleaned and Serviced,f
+170,Camera Issue,79,Re-soldering done,f
+171,Camera Issue,79,Accessories Replaced,f
+172,Camera Issue,79,Repair Cancelled,f
+173,Touch & Keypad Issue,80,Electrical Part Replaced,f
+174,Touch & Keypad Issue,80,Electrical Part Repaired,f
+175,Touch & Keypad Issue,80,Software/Firmware Updated,f
+176,Touch & Keypad Issue,80,Setting Adjusted,f
+177,Touch & Keypad Issue,80,Other Part Used,f
+178,Touch & Keypad Issue,80,Explained to Customer,f
+179,Touch & Keypad Issue,80,Cosmetic Part Repalced,f
+180,Touch & Keypad Issue,80,Part Cleaned and Serviced,f
+181,Touch & Keypad Issue,80,Re-soldering done,f
+182,Touch & Keypad Issue,80,Accessories Replaced,f
+183,Touch & Keypad Issue,80,Repair Cancelled,f
+184,Vibration Issue,81,Electrical Part Replaced,f
+185,Vibration Issue,81,Software/Firmware Updated,f
+186,Vibration Issue,81,Explained to Customer,f
+187,Vibration Issue,81,Re-soldering done,f
+188,Network Related Issue,82,Electrical Part Replaced,f
+189,Network Related Issue,82,Electrical Part Repaired,f
+190,Network Related Issue,82,Software/Firmware Updated,f
+191,Network Related Issue,82,Setting Adjusted,f
+192,Network Related Issue,82,Other Part Used,f
+193,Network Related Issue,82,Explained to Customer,f
+194,Network Related Issue,82,Cosmetic Part Repalced,f
+195,Network Related Issue,82,Part Cleaned and Serviced,f
+196,Network Related Issue,82,Re-soldering done,f
+197,Network Related Issue,82,Accessories Replaced,f
+198,Network Related Issue,82,Repair Cancelled,f
+199,Mobile Heating & Hanging Issue,83,Electrical Part Replaced,f
+200,Mobile Heating & Hanging Issue,83,Electrical Part Repaired,f
+201,Mobile Heating & Hanging Issue,83,Software/Firmware Updated,f
+202,Mobile Heating & Hanging Issue,83,Setting Adjusted,f
+203,Mobile Heating & Hanging Issue,83,Other Part Used,f
+204,Mobile Heating & Hanging Issue,83,Explained to Customer,f
+205,Mobile Heating & Hanging Issue,83,Cosmetic Part Repalced,f
+206,Mobile Heating & Hanging Issue,83,Part Cleaned and Serviced,f
+207,Mobile Heating & Hanging Issue,83,Re-soldering done,f
+208,Mobile Heating & Hanging Issue,83,Accessories Replaced,f
+209,Mobile Heating & Hanging Issue,83,Repair Cancelled,f
+210,Cosmetic Problem,84,Explained to Customer,f
+211,Cosmetic Problem,84,Cosmetic Part Repalced,f
+212,Cosmetic Problem,84,Part Cleaned and Serviced,f
+213,Cosmetic Problem,84,Repair Cancelled,f
+214,Cosmetic Problem,84,Re-fitting,f

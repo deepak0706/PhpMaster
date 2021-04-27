@@ -1,0 +1,169 @@
+﻿id,product_fault_category,pfc_id,category,status
+1,Power Issue,55,Won't Turn ON,f
+2,Power Issue,55,Turn ON/OFF Repeatedly,f
+3,Power Issue,55,Shut Down/Freeze Automatically,f
+4,Power Issue,55,No Defect Found,f
+5,Display Issue,56,Blank Screen,f
+6,Display Issue,56,Back light not working,f
+7,Display Issue,56,Discoloration,f
+8,Display Issue,56,Display damage,f
+9,Display Issue,56,Touch screen crack,f
+10,Display Issue,56,No Defect Found,f
+11,Sound Issue,57,No Sound,f
+12,Sound Issue,57,Noise,f
+13,Sound Issue,57,Strange Sound,f
+14,Sound Issue,57,No Defect Found,f
+15,Windows & Network Issue,58,Doesn't Launch Window,f
+16,Windows & Network Issue,58,No Internet,f
+17,Windows & Network Issue,58,Slow Internet,f
+18,Windows & Network Issue,58,Network Drop,f
+19,Windows & Network Issue,58,No Defect Found,f
+20,Touch Pad/Keyboard/Mouse Issue,59,Touch Pad Didn't Work,f
+21,Touch Pad/Keyboard/Mouse Issue,59,Mouse Didn't Work,f
+22,Touch Pad/Keyboard/Mouse Issue,59,Wireless Keyboard/Mouse Didn’t Work,f
+23,Touch Pad/Keyboard/Mouse Issue,59,USB Keyboard/Mouse Didn't Work,f
+24,Touch Pad/Keyboard/Mouse Issue,59,Laptop Keyboard Didn't Work,f
+25,Touch Pad/Keyboard/Mouse Issue,59,No Defect Found,f
+26,Touch Pad/Keyboard/Mouse Issue,59,Touch screen crack,f
+27,Touch Pad/Keyboard/Mouse Issue,59,Tourch screen not working,f
+28,Device Connectivity Issue,60,Bluetooth Didn't Work,f
+29,Device Connectivity Issue,60,Didn't Detect USB,f
+30,Device Connectivity Issue,60,HDMI Didn't Work,f
+31,Device Connectivity Issue,60,No Defect Found,f
+32,Heating & Battery Issue,61,Over Heating,f
+33,Heating & Battery Issue,61,Wont't Hold Charge,f
+34,Heating & Battery Issue,61,Drain Fast,f
+35,Heating & Battery Issue,61,No Defect Found,f
+36,Display Problem,72,Blank Display,f
+37,Display Problem,72,Display Not Working Properly,f
+38,Display Problem,72,Only Half Display Works,f
+39,Display Problem,72,White Display,f
+40,Display Problem,72,Hang on Logo,f
+41,Display Problem,72,Display Upside Down,f
+42,Display Problem,72,Intermittent Display,f
+43,Display Problem,72,Display too Dim/Dark,f
+44,Display Problem,72,Display Flickering,f
+45,Display Problem,72,Distorted Display,f
+46,Display Problem,72,Week/Excessive Color,f
+47,Display Problem,72,Ghost Image on Display,f
+48,Display Problem,72,Dot on Display,f
+49,Display Problem,72,Line on Display,f
+50,Display Problem,72,No Defect found,f
+51,Display Problem,72,Others,f
+52,Power Related Issue,73,No Power,f
+53,Power Related Issue,73,Cyclic Power ON/OFF,f
+54,Power Related Issue,73,Intermittent Power ON/OFF,f
+55,Power Related Issue,73,Phone Dead - Physical damage,f
+56,Power Related Issue,73,Phone Dead - Liquid damage,f
+57,Power Related Issue,73,No Defect found,f
+58,Power Related Issue,73,Others,f
+59,Headphones not working,74,Howling/Echo Sound,f
+60,Headphones not working,74,Distorted Audio,f
+61,Headphones not working,74,Excessive Sound,f
+62,Headphones not working,74,Week Sound,f
+63,Headphones not working,74,No Sound,f
+64,Headphones not working,74,Intermittent Sound,f
+65,Headphones not working,74,Headphones Broken/damaged,f
+66,Headphones not working,74,No Defect found,f
+67,Headphones not working,74,Others,f
+68,Battery/Charing Issue,75,No Charging,f
+69,Battery/Charing Issue,75,Short Battery Life,f
+70,Battery/Charing Issue,75,Battery Swollen,f
+71,Battery/Charing Issue,75,Charger Not Working,f
+72,Battery/Charing Issue,75,Charger Taking Too Long to Charge,f
+73,Battery/Charing Issue,75,Incomplete Charging,f
+74,Battery/Charing Issue,75,Intermittent Charging,f
+75,Battery/Charing Issue,75,Adaptor / Data Cable Broken,f
+76,Battery/Charing Issue,75,Phone Liquid / Physical Damage,f
+77,Battery/Charing Issue,75,No Defect found,f
+78,Battery/Charing Issue,75,Others,f
+79,Sound Issue,76,No reciever Sound,f
+80,Sound Issue,76,Howling/Echo Sound,f
+81,Sound Issue,76,Distorted Sound,f
+82,Sound Issue,76,Excessive Sound,f
+83,Sound Issue,76,Week Sound,f
+84,Sound Issue,76,No Sound,f
+85,Sound Issue,76,Intermittet Sound,f
+86,Sound Issue,76,No Speaker Sound,f
+87,Sound Issue,76,No Incoming Sound,f
+88,Sound Issue,76,No Outgoing Sound,f
+89,Sound Issue,76,No Ringtone,f
+90,Sound Issue,76,Phone Liquid / Physical Damage,f
+91,Sound Issue,76,No Defect Found,f
+92,Sound Issue,76,Others,f
+93,Connection Problem,77,Wifi not Working,f
+94,Connection Problem,77,Bluetooth not Working,f
+95,Connection Problem,77,No Screen Mirroring,f
+96,Connection Problem,77,GPS Not Working,f
+97,Connection Problem,77,Memory Card Problem,f
+98,Connection Problem,77,Finger Print Sensor Problem,f
+99,Connection Problem,77,Heart Rate Sensor Problem,f
+100,Connection Problem,77,USB Connection Error,f
+101,Connection Problem,77,Auto Call / Answer,f
+102,Connection Problem,77,Factory Setting Problem,f
+103,Connection Problem,77,No Defect found,f
+104,Connection Problem,77,Others,f
+105,Data Storage Issue,78,Data Erased Automatically,f
+106,Data Storage Issue,78,Memory Card Not Detected,f
+107,Data Storage Issue,78,USB Not Detected,f
+108,Data Storage Issue,78,No Defect found,f
+109,Data Storage Issue,78,Others,f
+110,Camera Issue,79,Distorted Picture,f
+111,Camera Issue,79,No Video Recording,f
+112,Camera Issue,79,No Picture,f
+113,Camera Issue,79,Flash Light Not Working,f
+114,Camera Issue,79,Front Camera Not Working,f
+115,Camera Issue,79,Rear Camera Not Working,f
+116,Camera Issue,79,Slow Camera Capture,f
+117,Camera Issue,79,Cant Switch Rear / Front Camera,f
+118,Camera Issue,79,Spot / Dust on Camera,f
+119,Camera Issue,79,No Auto Focus,f
+120,Camera Issue,79,Poor Image Quality,f
+121,Camera Issue,79,Phone Liquid / Physical Damage,f
+122,Camera Issue,79,No Defect Found,f
+123,Camera Issue,79,Others,f
+124,Touch & Keypad Issue,80,Touch Not working,f
+125,Touch & Keypad Issue,80,Volume Key Not Working,f
+126,Touch & Keypad Issue,80,Dail Pad / Keypad Not Working,f
+127,Touch & Keypad Issue,80,Lock Key Not Working,f
+128,Touch & Keypad Issue,80,Stylus Not Working,f
+129,Touch & Keypad Issue,80,Touch Screen Damage,f
+130,Touch & Keypad Issue,80,Phone Liquid / Physical Damage,f
+131,Touch & Keypad Issue,80,No Defect Found,f
+132,Touch & Keypad Issue,80,Others,f
+133,Vibration Issue,81,No Vibration,f
+134,Vibration Issue,81,Weak Vibration,f
+135,Vibration Issue,81,Phone Liquid / Physical Damage,f
+136,Vibration Issue,81,No Defect Found,f
+137,Vibration Issue,81,Others,f
+138,Network Related Issue,82,No Network,f
+139,Network Related Issue,82,SIM Lock,f
+140,Network Related Issue,82,No Incoming /Outgoing Call,f
+141,Network Related Issue,82,Call Drop,f
+142,Network Related Issue,82,No Internet,f
+143,Network Related Issue,82,Phone Liquid / Physical Damage,f
+144,Network Related Issue,82,No Defect Found,f
+145,Network Related Issue,82,Others,f
+146,Mobile Heating & Hanging Issue,83,Hang on Logo,f
+147,Mobile Heating & Hanging Issue,83,Slow operation,f
+148,Mobile Heating & Hanging Issue,83,Hang while play store,f
+149,Mobile Heating & Hanging Issue,83,Hang / Heat while playing game,f
+150,Mobile Heating & Hanging Issue,83,Burning Smell in Phone,f
+151,Mobile Heating & Hanging Issue,83,Over Heating,f
+152,Mobile Heating & Hanging Issue,83,Hang on Application,f
+153,Mobile Heating & Hanging Issue,83,Battery heating up,f
+154,Mobile Heating & Hanging Issue,83,No Defect Found,f
+155,Mobile Heating & Hanging Issue,83,Others,f
+156,Cosmetic Problem,84,Dent,f
+157,Cosmetic Problem,84,Gap,f
+158,Cosmetic Problem,84,Deformation,f
+159,Cosmetic Problem,84,Dis Colouration,f
+160,Cosmetic Problem,84,Paint Peeling,f
+161,Cosmetic Problem,84,Rust,f
+162,Cosmetic Problem,84,Scratches,f
+163,Cosmetic Problem,84,Uneven Fitting,f
+164,Cosmetic Problem,84,Case Body Damaged,f
+165,Cosmetic Problem,84,Side Lock Broken,f
+166,Cosmetic Problem,84,Liquid damage,f
+167,Cosmetic Problem,84,No Defect Found,f
+168,Cosmetic Problem,84,Others,f

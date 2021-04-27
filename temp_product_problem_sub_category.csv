@@ -1,0 +1,277 @@
+﻿id,category,pfc_id,sub_category,,status
+1,Power Issue,55,Main Battery is Faulty,,f
+2,Power Issue,55,Motherboard faulty,,f
+3,Power Issue,55,CPU Faulty,,f
+4,Power Issue,55,Graphics Card Faulty,,f
+5,Power Issue,55,RAMs Faulty,,f
+6,Power Issue,55,Hard Dirsk Crashed,,f
+7,Power Issue,55,Un Supported External Device Connected,,f
+8,Power Issue,55,Setting Not Proper,,f
+9,Power Issue,55,Hard Disk Connected to Wrong SATA,,f
+10,Power Issue,55,OS Crashed,,f
+11,Power Issue,55,Window Crupted,,f
+12,Power Issue,55,Fan Faulty,,f
+13,Power Issue,55,Heat Sink is clogged,,f
+14,Power Issue,55,Power Adapter,,f
+15,Power Issue,55,Physical Damage,,f
+16,Display Issue,56,RAM Faulty,,f
+17,Display Issue,56,Motherboard Faulty,,f
+18,Display Issue,56,Hard Disk Crashded,,f
+19,Display Issue,56,Inverter Faulty,,f
+20,Display Issue,56,Bad Video/Graphic Card,,f
+21,Display Issue,56,Driver Missing,,f
+22,Display Issue,56,Crupted OS,,f
+23,Display Issue,56,Crupted BIOS,,f
+24,Display Issue,56,Display Damaged,,f
+25,Display Issue,56,Touch screen faulty,,f
+26,Display Issue,56,touch screen damaged,,f
+27,Display Issue,56,Screen Inverter Faulty,,f
+28,Display Issue,56,Backlight Lamp Faulty,,f
+29,Display Issue,56,OS Outdated,,f
+30,Display Issue,56,Poor Connection between Video cable and motherboard,,f
+31,Display Issue,56,Physical Damage,,f
+32,Sound Issue,57,Cooling Fan Faulty,,f
+33,Sound Issue,57,Hard Drive Faulty,,f
+34,Sound Issue,57,Vent Clogged,,f
+35,Sound Issue,57,Speaker Faulty,,f
+36,Sound Issue,57,Motherboard faulty,,f
+37,Sound Issue,57,Sound Driver Missing,,f
+38,Sound Issue,57,OS Not Updated,,f
+39,Sound Issue,57,OS Upgraded but BIOS not Updated,,f
+40,Sound Issue,57,Sound Device Is not Installed Properly,,f
+41,Sound Issue,57,Sound Setting not Proper,,f
+42,Sound Issue,57,Water Logged,,f
+43,Sound Issue,57,Physical Damage,,f
+44,Windows & Network Issue,58,Hard Disk Faulty,,f
+45,Windows & Network Issue,58,RAM faulty,,f
+46,Windows & Network Issue,58,Other Hardware Issue,,f
+47,Windows & Network Issue,58,Graphic Card Faulty,,f
+48,Windows & Network Issue,58,OS is Crashed,,f
+49,Windows & Network Issue,58,LAN card Faulty,,f
+50,Windows & Network Issue,58,Setting Not Proper,,f
+51,Windows & Network Issue,58,Wrong IP setting,,f
+52,Windows & Network Issue,58,Router is at large distance,,f
+53,Windows & Network Issue,58,Network Driver Outdated,,f
+54,Windows & Network Issue,58,LAN card Faulty,,f
+55,Windows & Network Issue,58,Router Faulty,,f
+56,Windows & Network Issue,58,Electric/Maganetic Interference,,f
+57,Windows & Network Issue,58,Insufficient WiFi Range and power,,f
+58,Windows & Network Issue,58,Network is oveloaded,,f
+59,Windows & Network Issue,58,Network Driver Outdated,,f
+60,Windows & Network Issue,58,Incompetible Software Package Installed,,f
+61,Windows & Network Issue,58,Laptop Power Setting Not Proper,,f
+62,Windows & Network Issue,58,Physical Damage,,f
+63,Touch Pad/Keyboard/Mouse Issue,59,Touchpad Defective,,f
+64,Touch Pad/Keyboard/Mouse Issue,59,Other Harrdware Failure,,f
+65,Touch Pad/Keyboard/Mouse Issue,59,Touch Key Disabled,,f
+66,Touch Pad/Keyboard/Mouse Issue,59,Other Mouse Driver Installed,,f
+67,Touch Pad/Keyboard/Mouse Issue,59,Touchpad Driver Outdated,,f
+68,Touch Pad/Keyboard/Mouse Issue,59,Tablet PC Input Service Enabled,,f
+69,Touch Pad/Keyboard/Mouse Issue,59,OS Not Responding,,f
+70,Touch Pad/Keyboard/Mouse Issue,59,USB Port Faulty,,f
+71,Touch Pad/Keyboard/Mouse Issue,59,Keyboard/Mouse Wire Faulty,,f
+72,Touch Pad/Keyboard/Mouse Issue,59,Keyboad/Mouse Faulty,,f
+73,Touch Pad/Keyboard/Mouse Issue,59,Driver Missing,,f
+74,Touch Pad/Keyboard/Mouse Issue,59,Laptop Hanged/Frozen,,f
+75,Touch Pad/Keyboard/Mouse Issue,59,Keyboard/Mouse Not Conncested properly,,f
+76,Touch Pad/Keyboard/Mouse Issue,59,Keyboard Damaged,,f
+77,Touch Pad/Keyboard/Mouse Issue,59,Keyboard Dirty/Clogged,,f
+78,Touch Pad/Keyboard/Mouse Issue,59,Keyborad disabled,,f
+79,Touch Pad/Keyboard/Mouse Issue,59,Touch screen faulty,,f
+80,Touch Pad/Keyboard/Mouse Issue,59,Tourch screen damage,,f
+81,Touch Pad/Keyboard/Mouse Issue,59,BIOS Setting Not Proper,,f
+82,Touch Pad/Keyboard/Mouse Issue,59,Keyboard Driver Missing,,f
+83,Touch Pad/Keyboard/Mouse Issue,59,Keyboard/Mouse Battery is dead,,f
+84,Touch Pad/Keyboard/Mouse Issue,59,Wireless USB Adapter Faulty,,f
+85,Touch Pad/Keyboard/Mouse Issue,59,Laptop Bluetooth Faulty,,f
+86,Touch Pad/Keyboard/Mouse Issue,59,Bluetooth Keyboard/Mouse Faulty,,f
+87,Touch Pad/Keyboard/Mouse Issue,59,Device is not Snchronized,,f
+88,Touch Pad/Keyboard/Mouse Issue,59,Electric/Magnetic Interference,,f
+89,Touch Pad/Keyboard/Mouse Issue,59,Blutooth Keyboard/Mouse Setting Not Proper,,f
+90,Touch Pad/Keyboard/Mouse Issue,59,Physical Damage,,f
+91,Touch Pad/Keyboard/Mouse Issue,59,Water Logged,,f
+92,Device Connectivity Issue,60,Bluetooth Faulty,,f
+93,Device Connectivity Issue,60,Motherboard faulty,,f
+94,Device Connectivity Issue,60,Bluetooth is disabled,,f
+95,Device Connectivity Issue,60,Bluetooth Driver Missing,,f
+96,Device Connectivity Issue,60,Setting is not proper,,f
+97,Device Connectivity Issue,60,Windows Upgraded but driver not installed,,f
+98,Device Connectivity Issue,60,USB Port Faulty,,f
+99,Device Connectivity Issue,60,USB Device Faulty,,f
+100,Device Connectivity Issue,60,USB Port Blocked,,f
+101,Device Connectivity Issue,60,Virus Affected Device,,f
+102,Device Connectivity Issue,60,HDMI Port Faulty,,f
+103,Device Connectivity Issue,60,HDMI Cable Faulty,,f
+104,Device Connectivity Issue,60,Unsupported Device,,f
+105,Device Connectivity Issue,60,Physical Damage,,f
+106,Device Connectivity Issue,60,Water Logged,,f
+107,Heating & Battery Issue,61,Exhaust Vent Clogged,,f
+108,Heating & Battery Issue,61,New Hardware Installed,,f
+109,Heating & Battery Issue,61,Heat Sink Faulty,,f
+110,Heating & Battery Issue,61,Fan Faulty,,f
+111,Heating & Battery Issue,61,Battery Faulty,,f
+112,Heating & Battery Issue,61,Charger Faulty,,f
+113,Heating & Battery Issue,61,Power Cable Faulty,,f
+114,Heating & Battery Issue,61,Other Hardware Faulty,,f
+115,Heating & Battery Issue,61,Surrounding Temperature is High,,f
+116,Heating & Battery Issue,61,Placed Incorrectly,,f
+117,Heating & Battery Issue,61,Powe Fluctaution,,f
+118,Heating & Battery Issue,61,Incompatible Operating System,,f
+119,Heating & Battery Issue,61,Charging IC faulty,,f
+120,Heating & Battery Issue,61,Too Much Apps running,,f
+121,Heating & Battery Issue,61,Virus Infected,,f
+122,Heating & Battery Issue,61,Duplicate Charger,,f
+123,Heating & Battery Issue,61,Duplicate Battery,,f
+124,Heating & Battery Issue,61,Power Cord Faulty,,f
+125,Heating & Battery Issue,61,Charging IC Faulty,,f
+126,Heating & Battery Issue,61,Graphic is High,,f
+127,Heating & Battery Issue,61,Laptop ketp at high Brightness,,f
+128,Heating & Battery Issue,61,Too many background Apps running,,f
+129,Heating & Battery Issue,61,Physical Damage,,f
+130,Heating & Battery Issue,61,Water Logged,,f
+131,Display Problem,72,Back Light Faulty,,f
+132,Display Problem,72,Battery Faulty,,f
+133,Display Problem,72,Dirty/Oily module,,f
+134,Display Problem,72,Display Damaged,,f
+135,Display Problem,72,Display Driver Faulty,,f
+136,Display Problem,72,Display faulty,,f
+137,Display Problem,72,Display module faulty,,f
+138,Display Problem,72,Display PCB faulty,,f
+139,Display Problem,72,Display Setting Not Proper,,f
+140,Display Problem,72,Video Chipset Faulty,,f
+141,Display Problem,72,Flex cable faulty,,f
+142,Display Problem,72,Hardware Overlay Enabled,,f
+143,Display Problem,72,Internal memory issue,,f
+144,Display Problem,72,Connector faulty,,f
+145,Display Problem,72,Light Sensor Faulty,,f
+146,Display Problem,72,Liquid Damage,,f
+147,Display Problem,72,Loose connection,,f
+148,Display Problem,72,Low Quality Source,,f
+149,Display Problem,72,Third Party App Issue,,f
+150,Display Problem,72,Low Quality Source,,f
+151,Display Problem,72,Third Party App Issue,,f
+152,Display Problem,72,PBA faulty,,f
+153,Display Problem,72,Software / firmware Problem,,f
+154,Display Problem,72,Sub PBA faulty,,f
+155,Display Problem,72,Dead Pixel,,f
+156,Power Related Issue,73,Batery Connector is loose,,f
+157,Power Related Issue,73,Battery Connector Damaged,,f
+158,Power Related Issue,73,Set Tampered,,f
+159,Power Related Issue,73,Battery Faulty,,f
+160,Power Related Issue,73,Software / firmware Problem,,f
+161,Power Related Issue,73,Malicious Apps,,f
+162,Power Related Issue,73,Physical damage,,f
+163,Power Related Issue,73,Sub PBA faulty,,f
+164,Power Related Issue,73,PBA faulty,,f
+165,Power Related Issue,73,Phone setting is not proper,,f
+166,Power Related Issue,73,Third Party Apps Issue,,f
+167,Power Related Issue,73,Virus infected,,f
+168,Power Related Issue,73,Liquid Damage,,f
+169,Power Related Issue,73,Charging connector fualty,,f
+170,Power Related Issue,73,Power Key faulty,,f
+171,Power Related Issue,73,Adaptor faulty,,f
+172,Power Related Issue,73,Power Amplifier faulty,,f
+173,Power Related Issue,73,Charging IC faulty,,f
+174,Headphones not working,74,Headphone Jack faulty,,f
+175,Headphones not working,74,Headphone Faulty,,f
+176,Headphones not working,74,Poor quality content,,f
+177,Headphones not working,74,Setting issue,,f
+178,Headphones not working,74,Software / firmware Problem,,f
+179,Headphones not working,74,Headphones broken/damage,,f
+180,Headphones not working,74,Liquid damage,,f
+181,Headphones not working,74,Dry solder,,f
+182,Headphones not working,74,PBA faulty,,f
+183,Headphones not working,74,Volume Key faulty,,f
+184,Battery/Charing Issue,75,Battery faulty,,f
+185,Battery/Charing Issue,75,Adaptor faulty,,f
+186,Battery/Charing Issue,75,Data cable faulty,,f
+187,Battery/Charing Issue,75,PBA faulty,,f
+188,Battery/Charing Issue,75,Charging IC faulty,,f
+189,Battery/Charing Issue,75,Dry solder,,f
+190,Battery/Charing Issue,75,Software / firmware Problem,,f
+191,Battery/Charing Issue,75,Power Amplifier faulty,,f
+192,Battery/Charing Issue,75,Liquid damage,,f
+193,Battery/Charing Issue,75,Adaptor / Data Cable Broken,,f
+194,Battery/Charing Issue,75,Charging connector faulty,,f
+195,Sound Issue,76,Receiver Faulty,,f
+196,Sound Issue,76,Speaker Faulty,,f
+197,Sound Issue,76,Mic Faulty,,f
+198,Sound Issue,76,Loose Connection,,f
+199,Sound Issue,76,Dry Solder,,f
+200,Sound Issue,76,Software / firmware Problem,,f
+201,Sound Issue,76,Head Phone Jack faulty,,f
+202,Sound Issue,76,Liquid damage,,f
+203,Sound Issue,76,Physical Damage,,f
+204,Connection Problem,77,Bluetooth Module Faulty,,f
+205,Connection Problem,77,GPS module faulty,,f
+206,Connection Problem,77,PBA faulty,,f
+207,Connection Problem,77,Router Faulty,,f
+208,Connection Problem,77,Setting issue,,f
+209,Connection Problem,77,Software / firmware Problem,,f
+210,Connection Problem,77,Wifi Module Faulty,,f
+211,Connection Problem,77,Physical Damage,,f
+212,Connection Problem,77,Liquid damage,,f
+213,Data Storage Issue,78,SD Card Adapter Faulty,,f
+214,Data Storage Issue,78,SD card faulty,,f
+215,Data Storage Issue,78,Software / firmware Problem,,f
+216,Data Storage Issue,78,Setting issue,,f
+217,Data Storage Issue,78,Third Party Apps Issue,,f
+218,Data Storage Issue,78,USB Cable Faulty,,f
+219,Data Storage Issue,78,USB Port Faulty,,f
+220,Data Storage Issue,78,Physical Damage,,f
+221,Data Storage Issue,78,Liquid damage,,f
+222,Camera Issue,79,Rear Camera Faulty,,f
+223,Camera Issue,79,Front Camera Faulty,,f
+224,Camera Issue,79,Flash Light Faulty,,f
+225,Camera Issue,79,Loose Connection,,f
+226,Camera Issue,79,Dry Solder,,f
+227,Camera Issue,79,PBA Faulty,,f
+228,Camera Issue,79,Software / firmware Problem,,f
+229,Camera Issue,79,Liquid damage,,f
+230,Camera Issue,79,Physical Damage,,f
+231,Camera Issue,79,Camera Glass Scratchy,,f
+232,Camera Issue,79,Connector Faulty,,f
+233,Touch & Keypad Issue,80,Touch screen Faulty,,f
+234,Touch & Keypad Issue,80,Tac Switch Faulty,,f
+235,Touch & Keypad Issue,80,Stylus Faulty,,f
+236,Touch & Keypad Issue,80,Stylus damage,,f
+237,Touch & Keypad Issue,80,Calibration Error,,f
+238,Touch & Keypad Issue,80,Software / firmware Problem,,f
+239,Touch & Keypad Issue,80,Liquid damage,,f
+240,Touch & Keypad Issue,80,Physical Damage,,f
+241,Touch & Keypad Issue,80,Dry Solder,,f
+242,Touch & Keypad Issue,80,Loose Connection,,f
+243,Touch & Keypad Issue,80,No Defect Found,,f
+244,Vibration Issue,81,Vibrator faulty,,f
+245,Vibration Issue,81,Software / firmware Problem,,f
+246,Vibration Issue,81,Dry Solder,,f
+247,Vibration Issue,81,Loose Connection,,f
+248,Network Related Issue,82,PBA Faulty,,f
+249,Network Related Issue,82,Network IC Faulty,,f
+250,Network Related Issue,82,Power Amplifier Faulty,,f
+251,Network Related Issue,82,SIM Tray Faulty,,f
+252,Network Related Issue,82,SIM Tray Damage,,f
+253,Network Related Issue,82,Network Setting Error,,f
+254,Network Related Issue,82,No Defect Found,,f
+255,Network Related Issue,82,Liquid damage,,f
+256,Network Related Issue,82,Physical Damage,,f
+257,Network Related Issue,82,Software / firmware Problem,,f
+258,Network Related Issue,82,SIM Card Faulty,,f
+259,Mobile Heating & Hanging Issue,83,PBA Faulty,,f
+260,Mobile Heating & Hanging Issue,83,Sub PBA Faulty,,f
+261,Mobile Heating & Hanging Issue,83,Software / firmware Problem,,f
+262,Mobile Heating & Hanging Issue,83,Liquid damage,,f
+263,Mobile Heating & Hanging Issue,83,Physical Damage,,f
+264,Mobile Heating & Hanging Issue,83,Battery Faulty,,f
+265,Mobile Heating & Hanging Issue,83,Duplicate/wrong charger,,f
+266,Mobile Heating & Hanging Issue,83,Third Party Apps Issue,,f
+267,Mobile Heating & Hanging Issue,83,Memmory (RAM) issue,,f
+268,Mobile Heating & Hanging Issue,83,Setting issue,,f
+269,Mobile Heating & Hanging Issue,83,Power Amplifier Faulty,,f
+270,Mobile Heating & Hanging Issue,83,Liquid damage,,f
+271,Mobile Heating & Hanging Issue,83,Physical Damage,,f
+272,Cosmetic Problem,84,Front Cover Faulty,,f
+273,Cosmetic Problem,84,Rear Cover Faulty,,f
+274,Cosmetic Problem,84,Battery Cover Faulty,,f
+275,Cosmetic Problem,84,Middle Frame Assembly Faulty,,f
+276,Cosmetic Problem,84,Total damage,,f

@@ -1,0 +1,21 @@
+﻿id,product_id,category,multi_sub_category,status
+1,7,Power Issue,Won't Turn ON|Turn ON/OFF Repeatedly,f
+2,7,Display Issue,Blank screen|Screen light fails|Touch screen not work|No Image|NO display,f
+3,7,Sound Issue,No Sound|Noise,f
+4,7,Windows & Network Issue,Doesn't Launch Window|No Internet,f
+5,7,Touch Pad/Keyboard/Mouse Issue,Touch Pad Didn't Work|Mouse Didn't Work|Wireless Keyboard/Mouse Didn’t Work|Touch screen not work,f
+6,7,Device Connectivity Issue,Bluetooth Didn't Work|USB Didn't Work,f
+7,7,Heating & Battery Issue,Over Heating|Wont't Hold Charge,f
+8,6,Display Problem,No Display|Display Quality Not Good|Dot / Line On Display|Blank Display|Dust on Display|Display crack/damage|Display Liquid damage|White Display,f
+9,6,Power Related Issue,No Power|Intermittent ON/OFF|Phone Dead - Physical damage|Phone Dead - Liquid damage,f
+10,6,Headphones not working,No Sound in Headphones|Distorted Audio|Intermittent Sound|Low sound in Headphones|Headphones Broken/damaged,f
+11,6,Battery/Charing Issue,No Charging|Short Battery Life|Battery Swelling|Long chargint time|Intermittent Charging|Adaptor / Data Cable Broken|Phone Liquid / Physical Damage,f
+12,6,Sound Issue,No Receiver Sound|Howling / Echo Sound|Sound too low|No Speaker sound|Intermittent Sound|Ringer not working|Phone Liquid / Physical Damage,f
+13,6,Connection Problem,Wifi not Working|Bluetooth not Working|No screen Mirroring|GPS Not Working|USB not working,f
+14,6,Data Storage Issue,Data Erased Automatically|Memory Card Not Detected,f
+15,6,Camera Issue,Camera not working|No Video Recording|Flash Light Not Working|Front camera not working|Spot / Dust on Camera|No Auto Focus|Poor Image Quality|Phone Liquid / Physical Damage,f
+16,6,Touch & Keypad Issue,Touch Not working|Volume Key Not Working|Dail Pad / Keypad Not Working|Lock Key Not Working|Stylus Not Working|Touch Screen Damage|Phone liquid damage,f
+17,6,Vibration Issue,No Vibration|Weak Vibration,f
+18,6,Network Related Issue,No Network|SIM Lock|No Incoming /Outgoing Call|Call Drop,f
+19,6,Mobile Heating & Hanging Issue,Phone hang while operation|Phone hang while appliacation|Phone Slow operation|Phone Heating Problem|Burning Smell in Phone|Over Heating Problem,f
+20,6,Cosmetic Problem,Dent on body|Gap in fitting|Deformation / Discoulouration|Scratches on body|Phone damaged|Phone liquid damaged,f
